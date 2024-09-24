@@ -1,10 +1,10 @@
 {
   "name": "pizzeria-iles",
   "version": "0.0.0",
-  "homepage": "https://pg-iles-tailwindcss.netlify.app",
+  "homepage": "https://sunny-centaur-086b70.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pinegrow/pg-iles-tailwindcss.git"
+    "url": "https://github.com/rmasonhx12/pizzeria-iles.git"
   },
   "scripts": {
     "dev": "iles dev",
